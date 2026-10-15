@@ -8,11 +8,12 @@ Our goal is to maintain a curated, trustworthy collection of tools that develope
 
 Before submitting a Pull Request, please ensure the tool meets the following criteria:
 
-Free & Usable: Must have a genuinely free tier that provides practical value to developers, or be open-source. Temporary free trials alone do not qualify. Clearly describe free features and relevant usage limits. Tools whose advertised functionality requires a paid plan may be rejected.
-
-Established & Active: Must have proven community adoption. We currently do not accept brand-new personal side-projects.
-
-Self-Promotion: If you are submitting your own tool, please declare it in the PR description and ensure it meets the requirements above. Submissions primarily intended to promote paid plans rather than provide value to developers may be rejected.
+- **Free & Usable:** Must offer a genuinely usable free tier or be fully free and open-source. Temporary free trials alone do not qualify.
+- **Useful for Developers:** Must provide practical value for software developers, such as development, debugging, testing, design, productivity, or deployment.
+- **Accessible & Maintained:** The tool must be accessible, with sufficient documentation or instructions to understand its purpose and usage. Established community adoption or a minimum number of GitHub stars is not required.
+- **Transparency:** Pricing, free-tier limitations, and relevant restrictions must be described accurately.
+- **Self-Promotion:** Contributors may submit their own tools, provided they disclose their affiliation and the tools meet the same eligibility criteria.
+- **Proper Formatting:** Place the tool in the correct category, follow the repository's data format, avoid duplicates, and regenerate generated files using the project's build script.
 
 ## How to Contribute
 
