@@ -5,8 +5,8 @@
 </div>
 
 [![Total Tools](https://img.shields.io/badge/Total_Tools-56-blue?style=for-the-badge)](https://github.com/pnnnhan99/awesome-free-dev-tools)
-[![Online](https://img.shields.io/badge/Online-46-brightgreen?style=for-the-badge)](https://github.com/pnnnhan99/awesome-free-dev-tools)
-[![Offline](https://img.shields.io/badge/Offline-10-red?style=for-the-badge)](https://github.com/pnnnhan99/awesome-free-dev-tools)
+[![Online](https://img.shields.io/badge/Online-56-brightgreen?style=for-the-badge)](https://github.com/pnnnhan99/awesome-free-dev-tools)
+[![Offline](https://img.shields.io/badge/Offline-0-red?style=for-the-badge)](https://github.com/pnnnhan99/awesome-free-dev-tools)
 [![Auto Update](https://img.shields.io/badge/Auto_Update-Active-purple?style=for-the-badge&logo=github-actions)](https://github.com/pnnnhan99/awesome-free-dev-tools)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
@@ -19,9 +19,9 @@
 | Metric | Value |
 |---|---|
 | Total Tools | 56 |
-| 🟢 Online | 46 |
-| 🔴 Offline | 10 |
-| Last Updated | 10/19/2026, 10:54:50 AM (GMT+7) |
+| 🟢 Online | 56 |
+| 🔴 Offline | 0 |
+| Last Updated | 10/27/2026, 10:17:28 AM (GMT+7) |
 
 ---
 
@@ -98,7 +98,7 @@
       <td style="vertical-align: middle;"><a href="https://antigravity.google">Google Antigravity</a></td>
       <td style="vertical-align: middle;">Agentic development platform with local and cloud agents</td>
       <td style="text-align: center; vertical-align: middle;">Free Tier</td>
-      <td style="text-align: right; vertical-align: middle;">🔴</td>
+      <td style="text-align: right; vertical-align: middle;">🟢</td>
     </tr>
     <tr>
       <td style="vertical-align: middle;"><a href="https://kilo.ai/code">Kilo Code</a></td>
@@ -146,7 +146,7 @@
       <td style="vertical-align: middle;"><a href="https://code.claude.com">Claude Code</a></td>
       <td style="vertical-align: middle;">Agentic coding tool in terminal, IDE, desktop, browser</td>
       <td style="text-align: center; vertical-align: middle;">BYOK</td>
-      <td style="text-align: right; vertical-align: middle;">🔴</td>
+      <td style="text-align: right; vertical-align: middle;">🟢</td>
     </tr>
     <tr>
       <td style="vertical-align: middle;"><a href="https://github.com/google-gemini/gemini-cli">Gemini CLI</a></td>
@@ -199,7 +199,7 @@
       <td style="vertical-align: middle;"><a href="https://huggingface.co">Hugging Face</a></td>
       <td style="vertical-align: middle;">AI models, datasets, and Spaces hosting</td>
       <td style="text-align: center; vertical-align: middle;">Free Tier</td>
-      <td style="text-align: right; vertical-align: middle;">🔴</td>
+      <td style="text-align: right; vertical-align: middle;">🟢</td>
     </tr>
   </tbody>
 </table>
@@ -269,7 +269,7 @@
       <td style="vertical-align: middle;"><a href="https://firebase.google.com">Firebase</a></td>
       <td style="vertical-align: middle;">Authentication and cloud services</td>
       <td style="text-align: center; vertical-align: middle;">Free Tier</td>
-      <td style="text-align: right; vertical-align: middle;">🔴</td>
+      <td style="text-align: right; vertical-align: middle;">🟢</td>
     </tr>
     <tr>
       <td style="vertical-align: middle;"><a href="https://developers.cloudflare.com/d1/">Cloudflare D1</a></td>
@@ -293,7 +293,7 @@
       <td style="vertical-align: middle;"><a href="https://dbeaver.io/">DBeaver Community</a></td>
       <td style="vertical-align: middle;">Connect to and manage multiple SQL and NoSQL databases with a graphical interface, SQL editor, and data browser</td>
       <td style="text-align: center; vertical-align: middle;">Free: Open Source (Apache-2.0); commercial editions available</td>
-      <td style="text-align: right; vertical-align: middle;">🔴</td>
+      <td style="text-align: right; vertical-align: middle;">🟢</td>
     </tr>
   </tbody>
 </table>
@@ -334,12 +334,12 @@
       <td style="vertical-align: middle;"><a href="https://mockoon.com/">Mockoon</a></td>
       <td style="vertical-align: middle;">Create and run mock REST APIs locally to develop and test frontend applications without a live backend</td>
       <td style="text-align: center; vertical-align: middle;">Free: Open Source (MIT); paid plans available for team and cloud features</td>
-      <td style="text-align: right; vertical-align: middle;">🔴</td>
+      <td style="text-align: right; vertical-align: middle;">🟢</td>
     </tr>
     <tr>
       <td style="vertical-align: middle;"><a href="https://github.com/NeoPanic/Glim">Glim</a></td>
       <td style="vertical-align: middle;">macOS local file viewer for Markdown, source code, JSON and CSV, with read-only PDF/Office previews and basic UTF-8 editing</td>
-      <td style="text-align: center; vertical-align: middle;">Free: MIT open source; Apple Silicon and Intel downloads; DMGs are not Apple-notarized</td>
+      <td style="text-align: center; vertical-align: middle;">Free: MIT open source; Apple Silicon and Intel downloads; DMGs are not Apple-notarized. Optional anonymous telemetry is enabled by default.</td>
       <td style="text-align: right; vertical-align: middle;">🟢</td>
     </tr>
   </tbody>
@@ -484,7 +484,7 @@
       <td style="vertical-align: middle;"><a href="https://gravatar.com">Gravatar</a></td>
       <td style="vertical-align: middle;">Globally Recognized User Avatars</td>
       <td style="text-align: center; vertical-align: middle;">Free</td>
-      <td style="text-align: right; vertical-align: middle;">🔴</td>
+      <td style="text-align: right; vertical-align: middle;">🟢</td>
     </tr>
   </tbody>
 </table>
@@ -507,7 +507,7 @@
       <td style="vertical-align: middle;"><a href="https://www.google.com/recaptcha/about/">Google reCAPTCHA</a></td>
       <td style="vertical-align: middle;">Anti-bot protection</td>
       <td style="text-align: center; vertical-align: middle;">Free</td>
-      <td style="text-align: right; vertical-align: middle;">🔴</td>
+      <td style="text-align: right; vertical-align: middle;">🟢</td>
     </tr>
     <tr>
       <td style="vertical-align: middle;"><a href="https://tailscale.com/">Tailscale</a></td>
@@ -624,7 +624,7 @@
       <td style="vertical-align: middle;"><a href="https://piccollages.com/compress-image">PicCollages</a></td>
       <td style="vertical-align: middle;">Compress multiple JPG, PNG and WebP images in the browser; adjust output quality and download images individually or as a ZIP</td>
       <td style="text-align: center; vertical-align: middle;">Free: No account required</td>
-      <td style="text-align: right; vertical-align: middle;">🔴</td>
+      <td style="text-align: right; vertical-align: middle;">🟢</td>
     </tr>
   </tbody>
 </table>
@@ -647,7 +647,7 @@
       <td style="vertical-align: middle;"><a href="https://ui.rip">UI.RIP</a></td>
       <td style="vertical-align: middle;">Clone/recreate web UI elements</td>
       <td style="text-align: center; vertical-align: middle;">Free</td>
-      <td style="text-align: right; vertical-align: middle;">🔴</td>
+      <td style="text-align: right; vertical-align: middle;">🟢</td>
     </tr>
   </tbody>
 </table>
@@ -668,5 +668,5 @@
 </p>
 
 <p align="center">
-  🕐 Last updated: 10/19/2026, 10:54:50 AM
+  🕐 Last updated: 10/27/2026, 10:17:28 AM
 </p>
